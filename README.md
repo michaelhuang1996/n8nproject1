@@ -75,4 +75,4 @@ This project is open-source and MIT licensed — feel free to adapt or integrate
 
 ## Contribution
 
-Issues, improvements, or templates welcome! 🌟
+Issues, improvements, or templates welcome!
